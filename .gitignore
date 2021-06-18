@@ -1,0 +1,44 @@
+target
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+.nb-gradle/
+
+### VS Code ###
+.vscode
+
+/volmachten-online-backend/build.txt
+/volmachten-online-backend/buildpush.txt
+*.log
+*.log*.gz
+*.log*.tmp
+
+# Fortify
+*.fpr
+/backend/src/main/resources/public/index.html
+
+### OS Generated files ###
+.DS_Store
+.DS_Store?
+.attach_pid*
