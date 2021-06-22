@@ -10,6 +10,6 @@ public class PowerOfAttorney
 {
     String granteeName;
     String grantorName;
-    Account accountNumber;
+    Account account;
     Authorization authorization;
 }
